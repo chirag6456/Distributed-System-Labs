@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Lab4.Client",
+            "projectName": "Code_72d74406"
+        }
+    ]
+}
